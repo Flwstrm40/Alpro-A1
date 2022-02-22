@@ -1,1 +1,1 @@
-Muhammad Naufal Arkan - 24060121130073 - Prakyikum 1
+Muhammad Naufal Arkan - 24060121130073 - Praktikum 1
