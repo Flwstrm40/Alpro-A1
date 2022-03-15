@@ -16,16 +16,13 @@ int main(){
     if (N<=0)
     {
         printf("\nN harus positif\n");
-
     }
     else{
         printf("\nFaktor dari %d adalah =",N);    
          for (int i = 1; i <= N; i++){
             if (N % i == 0){
-                
                 printf(" %d", i);
-            }
-            
+            }            
         }
         printf("\n");
     }
