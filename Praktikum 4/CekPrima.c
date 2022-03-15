@@ -13,7 +13,6 @@ int main(){
     printf("Masukkan nilai N (>0): ");scanf("%d", &N); /*input*/
     printf("\n========================= Hasil ==========================\n");
     
-    
     if (N<=0)
     {
         printf("\nN harus positif\n");
@@ -23,10 +22,9 @@ int main(){
         totalBil = 0;
         for (int i = 1; i <= N; i++){
             if (N % i == 0){
-                    totalBil = totalBil + 1;
-                    
+                    totalBil = totalBil + 1;            
             }
-            }
+        }
         
         if (totalBil==2)
         {
